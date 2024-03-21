@@ -43,6 +43,9 @@
 }
 
 @media only screen and (max-width: 600px) {
+    .header1.sticky {
+     position:absolute;
+    }
     .categories_wrapper {padding: 10px 0;}
     .cate-box h1 {padding: 5px 0; margin: 0; font-size: 20px;}
     .cate-box p {padding: 5px 0; margin: 0;font-size: 14px;}
